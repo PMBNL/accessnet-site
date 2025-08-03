@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paginas on Accessnet</title>
+    <link>http://localhost:1313/pagina/</link>
+    <description>Recent content in Paginas on Accessnet</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <atom:link href="http://localhost:1313/pagina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geschiedenis van AccessNet</title>
+      <link>http://localhost:1313/pagina/geschiedenis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pagina/geschiedenis/</guid>
+      <description>AccessNet werd opgericht rond 1994, in een tijd waarin internet nog via inbelverbindingen verliep.&#xA;We begonnen als officiële dealer van PTT Telecom en gebruikten de Internet backbone van stichting NLNET en groeiden uit tot een regionale internetaanbieder voor zowel particulieren als bedrijven.&#xA;🌐 Beginjaren – 1996 In 1996 was onze homepage eenvoudig en gericht op gebruikers van Microsoft Internet Explorer.&#xA;We boden internettoegang, informatie over digitale steden, en speciale secties voor zakelijke klanten.</description>
+    </item>
+  </channel>
+</rss>
