@@ -1,6 +1,24 @@
-# security.txt for Accessnet
-Contact: mailto:security@accessnet.nl
-Expires: 2026-08-04T00:00:00.000Z
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Preferred-Languages: nl, en
+Contact: mailto:security@accessnet.nl
+Encryption: https://www.accessnet.nl/.well-known/pgp-key.txt
 Canonical: https://www.accessnet.nl/.well-known/security.txt
-Signature: https://www.accessnet.nl/.well-known/security.txt.asc
+Expires: 2026-08-04T00:00:00.000Z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEU4Z1KZnhW/mzbD3t9IfQQXfd7lsFAmiQf/MACgkQ9IfQQXfd
+7lv58xAAvK0yMmRvvsUJAlhphmI7Dq2qvdloa08ycIDHvScTAFtQO8ljxJRqME9i
+TRs+bJpjbyjGKGcE94ZYTCAmFp+tJLAsOVegyxTNZwuX10NhWhl3YkzGWKC+auBn
+7otzxnRGXSaitZY0DfLOXLvkAMx+kFLNwmPv6kix1bqpyfs8ohEk67rssYSRv3b0
+RilWG6rniV1evKlZ22umtj0q0IpZI78aqIHrNrzGnK2zp+slVbwTstENuF7dwhw+
+8M0wWN2KR8D9Owx8UZ/dXlJsX/2LIlshj8TIBsV7BZxTqW1FDJCZD7I9Nlle4mqe
+BmUxpYlljcQXfQ88VJ4t8Oc6KZoWBfDc8cHtuwej3n5vKEBr4hMTZXIHWeB5dex3
+INaZO3Xmhv7+hSYud9nVX2KJT6Shq6hhIykqAftfoBnlELtSbu0BpGuih3SII847
+iuIgdVkoOaNXAQwIKIJGYCpkHeYYp8WSM2PbkPiVkiUi5JzknBv1/+YDL8JMnQ67
+NBQCykQ4jdD+eBFbPfsIeMLmWHKyBtBsIU2LsyHqbygB+PO4VGP1OXj85y3srYsA
+vrpy6vSoaXBfV4al2v8AX1R1QnHdsZhJh423ikPWYIXEZDCSKLjNgLT8DnP9TtJ3
+bG36v+C/FgF23echN4wGSt/lagIIDOf4KFU20TDjxxnycud1RB0=
+=NGp1
+-----END PGP SIGNATURE-----
