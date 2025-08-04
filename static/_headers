@@ -5,4 +5,5 @@
   Permissions-Policy: geolocation=(), microphone=(), camera=()
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: no-referrer
+  Access-Control-Allow-Origin: https://www.accessnet.nl
 
