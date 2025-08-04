@@ -4,4 +4,5 @@
   Referrer-Policy: strict-origin
   Permissions-Policy: geolocation=(), microphone=(), camera=()
   X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: no-referrer
 
