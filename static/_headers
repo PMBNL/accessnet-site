@@ -2,7 +2,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Content-Security-Policy: default-src 'self'; img-src 'self' data:; script-src 'self'; style-src 'self' 'unsafe-inline'
   Referrer-Policy: strict-origin
-  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), bluetooth=(), accelerometer=(), gyroscope=(), magnetometer=(), midi=(), display-capture=(), wake-lock=(), document-domain=(), gamepad=(), vibrate=(), clipboard-read=(), clipboard-write=()
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: no-referrer
   Access-Control-Allow-Origin: https://www.accessnet.nl
