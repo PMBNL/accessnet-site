@@ -6,4 +6,5 @@
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: no-referrer
   Access-Control-Allow-Origin: https://www.accessnet.nl
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'
 
