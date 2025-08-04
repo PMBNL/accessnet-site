@@ -3,3 +3,4 @@ Contact: mailto:security@accessnet.nl
 Expires: 2026-08-04T00:00:00.000Z
 Preferred-Languages: nl, en
 Canonical: https://www.accessnet.nl/.well-known/security.txt
+Signature: https://www.accessnet.nl/.well-known/security.txt.asc
